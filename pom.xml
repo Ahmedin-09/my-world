@@ -29,7 +29,7 @@
                   <cloudHubDeployment>
 		          <username>Ahmedin01</username> 
 		          <password>Ahmedin03</password> 
-		          <applicationName>Timezone-Testt</applicationName>
+		          <applicationName>Timezone-World</applicationName>
 		          <environment>Sandbox</environment>
 		          <workerType>Micro</workerType>
 		          <workers>1</workers>
